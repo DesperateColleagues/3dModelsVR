@@ -4,7 +4,7 @@
 
 mtllib Jeep_Renegade_2016.mtl
 
-g Mesh1 Group1 Model
+g g_0
 
 usemtl car_jeep_ren
 v -2.16573e-015 1.75011 -1.564
