@@ -6,7 +6,7 @@ newmtl car_jeep_ren
 Ka 0.000000 0.000000 0.000000
 Kd 0.407843 0.403922 0.407843
 Ks 0.330000 0.330000 0.330000
-map_Kd Jeep_Renegade_2016/car_jeep_ren.jpg
+map_Kd car_jeep_ren.jpg
 
 newmtl FrontColor
 Ka 0.000000 0.000000 0.000000
