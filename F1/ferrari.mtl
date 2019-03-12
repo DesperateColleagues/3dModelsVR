@@ -1,0 +1,160 @@
+newmtl sidewall_medium
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\sidewall_diffuse.dds
+
+newmtl tread_medium
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\slick_diffuse.dds
+
+newmtl ferrari_carbon4
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\cf_pattern_1_d.dds
+
+newmtl ferrari_steeringwheel
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\ferrari_steering_wheel_df.dds
+
+newmtl indicator_lights
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\int_indicator.dds
+
+newmtl ferrari_carbon3
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\cf_pattern_3_d.dds
+
+newmtl generic_lcd
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\
+
+newmtl vehicle_revs_type2
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\rev_lights_off_type2.dds
+
+newmtl ferrari_paint
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\ferrari_paint.dds
+
+newmtl generics
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\generic_main.dds
+
+newmtl ferrari_carbon1
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\cf_pattern_1_d.dds
+
+newmtl ferrari_carbon2
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\cf_pattern_2_d.dds
+
+newmtl ferrari_detail
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\ferrari_detail_a.dds
+
+newmtl ferrari_wheel_hub
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\ferrari_wheel_a.dds
+
+newmtl discs
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\disc_a.dds
+
+newmtl ferrari_number_1
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\ferrari_paint.dds
+
+newmtl generics_cockpit
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\generic_cockpit.dds
+
+newmtl ferrari_mirror_left
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\
+
+newmtl ferrari_mirror_right
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\
+
+newmtl ferrari_wheel_hub_alpha
+Ka 0.5 0.5 0.5
+Kd 0.6 0.6 0.6
+Ks 0.05 0.05 0.05
+Ns 10
+illum 2
+map_Kd texture\ferrari_wheel_blur_a.dds
+
