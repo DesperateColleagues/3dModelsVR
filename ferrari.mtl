@@ -1,0 +1,222 @@
+# Blender MTL File: 'None'
+# Material Count: 20
+
+newmtl discs
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\disc_a.dds
+
+newmtl ferrari_carbon1
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\cf_pattern_1_d.dds
+
+newmtl ferrari_carbon2
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\cf_pattern_2_d.dds
+
+newmtl ferrari_carbon3
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\cf_pattern_3_d.dds
+
+newmtl ferrari_carbon4
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\cf_pattern_1_d.dds
+
+newmtl ferrari_detail
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\ferrari_detail_a.dds
+
+newmtl ferrari_mirror_left
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture
+
+newmtl ferrari_mirror_right
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture
+
+newmtl ferrari_number_1
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\ferrari_paint.dds
+
+newmtl ferrari_paint
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\ferrari_paint.dds
+
+newmtl ferrari_steeringwheel
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\ferrari_steering_wheel_df.dds
+
+newmtl ferrari_wheel_hub
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\ferrari_wheel_a.dds
+
+newmtl ferrari_wheel_hub_alpha
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\ferrari_wheel_blur_a.dds
+
+newmtl generic_lcd
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture
+
+newmtl generics
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\generic_main.dds
+
+newmtl generics_cockpit
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\generic_cockpit.dds
+
+newmtl indicator_lights
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\int_indicator.dds
+
+newmtl sidewall_medium
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\sidewall_diffuse.dds
+
+newmtl tread_medium
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\slick_diffuse.dds
+
+newmtl vehicle_revs_type2
+Ns 9.803922
+Ka 0.500000 0.500000 0.500000
+Kd 0.600000 0.600000 0.600000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2017 Ferrari SF70H 3D from F1 2017\texture\rev_lights_off_type2.dds
